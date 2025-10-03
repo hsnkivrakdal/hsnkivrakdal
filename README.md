@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Web Development<br>🌱 I’m currently learning ASP .Net
+🔭 I’m focusing on Web Development<br>🌱 I’m currently working on ASP .Net Core MVC and API's
 
 
 ## 🌐 Socials:
